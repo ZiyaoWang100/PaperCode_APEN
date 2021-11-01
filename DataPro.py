@@ -223,11 +223,11 @@ class Parameter(object):
         self.Node_x = self.Node[:,10] # 节点x坐标
         self.Node_y = self.Node[:,11] # 节点y坐标
         
-        # %% 建设变量 （已知参数）
-        self.x_node_type = self.Node[:,9]
-        self.ρ_A_b = self.Branch[:,4]
-        self.ρ_B_b = self.Branch[:,5]
-        self.ρ_C_b = self.Branch[:,6]
+        # # %% 建设变量 （已知参数）
+        # self.x_node_type = self.Node[:,9]
+        # self.ρ_A_b = self.Branch[:,4]
+        # self.ρ_B_b = self.Branch[:,5]
+        # self.ρ_C_b = self.Branch[:,6]
         
         
         # %% 成本参数运算
