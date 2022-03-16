@@ -1,5 +1,7 @@
-# PaperCode_APEN: Incorporating Reliability Explicitly in AC-DC Hybrid Distribution System Planning
-For better understanding, an illustrative example in "Incorporating Reliability Explicitly in AC-DC Hybrid Distribution System Planning: A Pareto Double Q Planning Method" is presented in Github. This program is developed by Gurobi 9.1.2 with Python 3.7. The main program is Main.py and other files are data(excel) and parameter.
+# PaperCode_APEN: Optimal Double Q AC-DC Hybrid Distribution System Planning with Explicit Topology-Variable-Based Reliability Assessment
+
+For better understanding, an illustrative example in "Optimal Double Q AC-DC Hybrid Distribution System Planning with Explicit Topology-Variable-Based Reliability Assessment
+" is presented in Github. This program is developed by Gurobi 9.1.2 with Python 3.7. The main program is Main.py and other files are data(excel) and parameter.
 
 The parameter of 13-bus case study system is also provided, as data_13nodes.xlsx shown.
 
@@ -22,4 +24,4 @@ The following figure shows the optimization result of the four cases.
 ![Fig4](https://user-images.githubusercontent.com/93502916/139666314-8812ee4f-0766-4cb5-9db6-0e01e68a1b79.png)
 
 # Reference
-[1] Ziyao W,  Lipeng Z ,  Tao Y , et al. Incorporating Reliability Explicitly in AC-DC Hybrid Distribution System Planning: A Pareto Double Q Planning Method[J]. Applied Energy, 2021.
+[1] Ziyao W,  Lipeng Z ,  Tao Y , et al. Optimal Double Q AC-DC Hybrid Distribution System Planning with Explicit Topology-Variable-Based Reliability Assessment[J]. Applied Energy, 2021.
